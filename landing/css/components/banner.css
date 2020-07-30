@@ -32,3 +32,8 @@
   width: 1000px;
   margin: auto;
 }
+
+#banner a:hover {
+  background-color: #7aeff1;
+  color: black;
+}
